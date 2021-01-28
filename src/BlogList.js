@@ -1,10 +1,3 @@
-// Solution I:
-// const BlogList = (props) => {
-//     const blogs = props.blogs;
-//     // console.log(props, blogs);
-//     const title = props.title;
-
-// Solution II:
 const BlogList = ({ blogs, title }) => {
 
     return (
