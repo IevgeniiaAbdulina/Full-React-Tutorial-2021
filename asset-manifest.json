@@ -1,23 +1,20 @@
 {
   "files": {
-    "main.css": "/Full-React-Tutorial-2021/static/css/main.7d180cbf.chunk.css",
-    "main.js": "/Full-React-Tutorial-2021/static/js/main.e60656c3.chunk.js",
-    "main.js.map": "/Full-React-Tutorial-2021/static/js/main.e60656c3.chunk.js.map",
-    "runtime-main.js": "/Full-React-Tutorial-2021/static/js/runtime-main.dfd410af.js",
-    "runtime-main.js.map": "/Full-React-Tutorial-2021/static/js/runtime-main.dfd410af.js.map",
-    "static/js/2.08ba75d1.chunk.js": "/Full-React-Tutorial-2021/static/js/2.08ba75d1.chunk.js",
-    "static/js/2.08ba75d1.chunk.js.map": "/Full-React-Tutorial-2021/static/js/2.08ba75d1.chunk.js.map",
-    "static/js/3.c9ae8a12.chunk.js": "/Full-React-Tutorial-2021/static/js/3.c9ae8a12.chunk.js",
-    "static/js/3.c9ae8a12.chunk.js.map": "/Full-React-Tutorial-2021/static/js/3.c9ae8a12.chunk.js.map",
+    "main.css": "/Full-React-Tutorial-2021/static/css/main.be6640a9.chunk.css",
+    "main.js": "/Full-React-Tutorial-2021/static/js/main.bbebed2a.chunk.js",
+    "main.js.map": "/Full-React-Tutorial-2021/static/js/main.bbebed2a.chunk.js.map",
+    "runtime-main.js": "/Full-React-Tutorial-2021/static/js/runtime-main.bdda1dc8.js",
+    "runtime-main.js.map": "/Full-React-Tutorial-2021/static/js/runtime-main.bdda1dc8.js.map",
+    "static/js/2.21fd718f.chunk.js": "/Full-React-Tutorial-2021/static/js/2.21fd718f.chunk.js",
+    "static/js/2.21fd718f.chunk.js.map": "/Full-React-Tutorial-2021/static/js/2.21fd718f.chunk.js.map",
     "index.html": "/Full-React-Tutorial-2021/index.html",
-    "static/css/main.7d180cbf.chunk.css.map": "/Full-React-Tutorial-2021/static/css/main.7d180cbf.chunk.css.map",
-    "static/js/2.08ba75d1.chunk.js.LICENSE.txt": "/Full-React-Tutorial-2021/static/js/2.08ba75d1.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/Full-React-Tutorial-2021/static/media/logo.6ce24c58.svg"
+    "static/css/main.be6640a9.chunk.css.map": "/Full-React-Tutorial-2021/static/css/main.be6640a9.chunk.css.map",
+    "static/js/2.21fd718f.chunk.js.LICENSE.txt": "/Full-React-Tutorial-2021/static/js/2.21fd718f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.dfd410af.js",
-    "static/js/2.08ba75d1.chunk.js",
-    "static/css/main.7d180cbf.chunk.css",
-    "static/js/main.e60656c3.chunk.js"
+    "static/js/runtime-main.bdda1dc8.js",
+    "static/js/2.21fd718f.chunk.js",
+    "static/css/main.be6640a9.chunk.css",
+    "static/js/main.bbebed2a.chunk.js"
   ]
 }
