@@ -21,7 +21,6 @@ const Create = () => {
         })
             .then(() => {
                 setIsPending(false);
-                // history.go(-1); // go back to history
                 history.push('/');
             })
 

@@ -1,7 +1,6 @@
 import BlogList from './BlogList';
 import useFetch from './useFetch';
 
-
 const Home = () => {
 
     const { data: blogs, isPending, error } = useFetch('http://localhost:8000/blogs');
@@ -16,6 +15,3 @@ const Home = () => {
 }
 
 export default Home;
-// Run Local Server
-// npx json-server --watch data/db.json --port 8000
-//  npm install react-router-dom@5
